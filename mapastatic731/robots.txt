@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exemplo.com/mapastatic731/sitemap.xml
